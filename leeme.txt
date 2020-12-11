@@ -1,2 +1,2 @@
 Vamos a empezar a practicar con el fork. Primero haz un fork de mi repositorio, luego añade un archivo con tu nombre y haz un pull request a mi repositorio. Ya veremos si lo acepto o no :-)
-Hola otra vez, a ver si sé lo que estoy haciendo
+Hola otra vez, a ver si sé lo que estoy haciendo ahora..
